@@ -1,6 +1,11 @@
 # VertexColourDeformation
 A system for pre planned deformation of meshes through Python &amp; shading.
 
+<p align="center" width="100%">
+<video src="https://github.com/user-attachments/assets/b08b47f4-3a12-4ee9-9451-2a95e220fb7f" width="80%" controls></video>
+</p>
+
+
 <h1>Maya</h1>
 <p align="center" width="100%">
 <video src="https://github.com/user-attachments/assets/563d36e5-1c92-49e6-aa88-c873a20ddf1d](https://github.com/user-attachments/assets/fc1cbc1a-aa5d-4f6c-89f2-4ca5240a9de4" width="80%" controls></video>
@@ -19,3 +24,5 @@ The data can be accessed in the vertex shader and deform the mesh in the predefi
 <img width="2286" height="1358" alt="image" src="https://github.com/user-attachments/assets/656e2a3f-a8ac-4132-920b-3891a88f1953" />
 
 To use the new vertex colours in your shader, download the Unity shader sub graph and add it to your shader, with a float input, and connect the output to Position in the Vertex Group.
+
+
